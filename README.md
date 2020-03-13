@@ -298,12 +298,14 @@ NodeManager
 QuorumPeerMain
 
 [[slaver1]]
+```
 QuorumPeerMain
 JournalNode
 DataNode
 NameNode
 DFSZKFailoverController
 NodeManager
+```
 
 [[slaver2]]
 JournalNode
